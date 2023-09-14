@@ -1,0 +1,40 @@
+.overlay-icon {
+    opacity: 0;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.icon-gold {
+    color: var(--base-yellow);
+    font-size: 25px;
+}
+
+.icon-gold:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.image-container {
+    background-size: cover;
+    height: 25vh;
+    display: flex;
+}
+
+#image-1.image-container {
+    background-image: url("../../assets/rocks.jpg");
+}
+
+#image-2.image-container {
+    background-image: url("../../assets/bird.jpg");
+}
+
+.image-container-big {
+    background-image: url("../../assets/trees.jpg");
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+}
+
+.hover-effect:hover .overlay-icon{
+    opacity: 1;
+}

@@ -1,0 +1,44 @@
+:root {
+    --base-yellow: #DAA520;
+    --base-yellow-lucid: rgba(218, 165, 32, 0.7);
+    --darker-yellow: #915a17;
+    --base-blue: #6495ED;
+}
+
+.icon-stack {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25px;
+    height: 25px;
+    margin: 15px 10px;
+}
+
+.base-icon-background {
+    position: absolute;
+    font-size: 25px;
+    color: var(--base-yellow);
+    opacity: 0;
+}
+
+.base-icon {
+    position: absolute;
+    font-size: 25px;
+    color: black;
+}
+
+.top-icon {
+    position: absolute;
+    font-size: 15px;
+    color: black;
+}
+
+.icon-stack:hover .base-icon {
+    opacity: 0;
+    cursor: pointer;
+}
+
+.icon-stack:hover .base-icon-background {
+    opacity: 1;
+}

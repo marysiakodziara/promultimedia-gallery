@@ -1,0 +1,99 @@
+#thumbnailSlider .carousel-inner {
+    border-width: 5px;
+    border-style: solid;
+    border-color: var(--base-blue);
+}
+
+#thumbnailSlider .carousel-item .item-size {
+    display: flex;
+}
+
+#thumbnailSlider .carousel-item img {
+    height: 80%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#thumbnailSlider .carousel-controls {
+    flex: 0 0 auto;
+}
+
+#thumbnailSlider .carousel-indicators {
+    display: flex;
+    position: relative;
+    margin: 0;
+}
+
+#thumbnailSlider .carousel-indicators button {
+    flex-grow: 1;
+    height: 84px;
+}
+
+#thumbnailSlider .carousel-indicators button[id="0"] {
+    background-image: url("../../assets/doggo.jpg");
+    background-size: cover;
+}
+
+#thumbnailSlider .carousel-indicators button[id="1"] {
+    background-image: url("../../assets/earth.jpg");
+    background-size: cover;
+}
+#thumbnailSlider .carousel-indicators button[id="2"] {
+    background-image: url("../../assets/lake.jpg");
+    background-size: cover;
+}
+#thumbnailSlider .carousel-indicators button[id="3"] {
+    background-image: url("../../assets/mountains.jpg");
+    background-size: cover;
+}
+#thumbnailSlider .carousel-indicators button[id="4"] {
+    background-image: url("../../assets/nightsky.jpg");
+    background-size: cover;
+}
+#thumbnailSlider .carousel-indicators button[id="5"] {
+    background-image: url("../../assets/road.jpg");
+    background-size: cover;
+}
+#thumbnailSlider .carousel-indicators button[id="6"] {
+    background-image: url("../../assets/sea.jpg");
+    background-size: cover;
+}
+#thumbnailSlider .carousel-indicators button[id="7"] {
+    background-image: url("../../assets/sunset.jpg");
+    background-size: cover;
+}
+
+#thumbnailSlider .carousel-indicators button[id="8"] {
+    background-image: url("../../assets/vanlife.jpg");
+    background-size: cover;
+}
+#thumbnailSlider .carousel-indicators button[id="9"] {
+    background-image: url("../../assets/woods.jpg");
+    background-size: cover;
+}
+
+#thumbnailSlider .carousel-item {
+    position: relative;
+}
+
+#thumbnailSlider .item-size .item-description {
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.6;
+    box-shadow: 0px -3px 5px var(--base-yellow-lucid);
+}
+
+#thumbnailSlider .base-icon-background {
+    opacity: 1;
+}
+
+#thumbnailSlider .icon-stack:hover .base-icon-background {
+    color: var(--darker-yellow);
+}
