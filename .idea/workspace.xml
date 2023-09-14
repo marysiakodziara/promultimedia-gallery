@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="567d237b-408c-4a5c-88c3-1192a1f4f839" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/components/baseGallery/base-gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/baseGallery/base-gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/baseGallery/base-gallery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,7 @@
       <updated>1694542685567</updated>
       <workItem from="1694542686824" duration="105000" />
       <workItem from="1694542807682" duration="42544000" />
-      <workItem from="1694681916352" duration="45990000" />
+      <workItem from="1694681916352" duration="48008000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1694548368923</created>
