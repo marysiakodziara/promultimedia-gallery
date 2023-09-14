@@ -38,3 +38,24 @@
 .hover-effect:hover .overlay-icon{
     opacity: 1;
 }
+
+/* --- MODAL --- */
+
+.modal-content {
+    position: relative;
+}
+
+.btn-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.btn-close:active,
+.btn-close:focus,
+.btn-close:target,
+.btn-close:active:focus {
+    box-shadow: none !important;
+}
