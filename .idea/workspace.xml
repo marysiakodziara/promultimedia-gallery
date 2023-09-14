@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="567d237b-408c-4a5c-88c3-1192a1f4f839" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/assets/bird.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/doggo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/earth.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/lake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/mountains.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/nightsky.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/road.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/rocks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sea.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sunset.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/trees.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/vanlife.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/woods.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/baseGallery/base-gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/gallerySlider/gallery-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/gallerySlider/gallery-slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/global/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/thumbnailSlider/thumbnail-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/thumbnailSlider/thumbnail-slider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="567d237b-408c-4a5c-88c3-1192a1f4f839" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +67,7 @@
       <updated>1694542685567</updated>
       <workItem from="1694542686824" duration="105000" />
       <workItem from="1694542807682" duration="42544000" />
-      <workItem from="1694681916352" duration="42368000" />
+      <workItem from="1694681916352" duration="42683000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1694548368923</created>

@@ -97,3 +97,11 @@
 #thumbnailSlider .icon-stack:hover .base-icon-background {
     color: var(--darker-yellow);
 }
+
+#thumbnailSlider .carousel-control-prev {
+    transform: translateX(-25%) ;
+}
+
+#thumbnailSlider .carousel-control-next {
+    transform: translateX(25%) ;
+}
